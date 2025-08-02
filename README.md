@@ -75,7 +75,7 @@ Deployment:
   
   IBM Object Storage holds all static PDFs
 
-📸 Result (Slide 6)
+📸 Result
 (Insert a screenshot of the chatbot interface or API response here)
 
   Example Query:
@@ -84,7 +84,7 @@ Deployment:
   Output:
   "Always verify the UPI ID and request source. Don’t approve money requests from unknown senders. Use the BHIM or bank app to check authenticity."
 
-🧾 Conclusion (Slide 7)
+🧾 Conclusion
   The agent makes digital finance safe and understandable for all
   
   Uses IBM Granite to generate accurate, real-time answers
@@ -93,7 +93,7 @@ Deployment:
   
   Reduces risks of fraud and builds trust in digital transactions
 
-🔭 Future Scope (Slide 8)
+🔭 Future Scope
   WhatsApp and Voice integration for elderly users
   
   Real-time scam alerting using NLP-based detection
@@ -102,7 +102,7 @@ Deployment:
   
   Personalized modules for students, workers, and senior citizens
 
-📚 References (Slide 9)
+📚 References
   https://www.rbi.org.in
   
   https://www.npci.org.in
